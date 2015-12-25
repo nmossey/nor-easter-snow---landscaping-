@@ -392,15 +392,8 @@ webs.renderedModulesPromises = [];
 
 
 
-<footer class="freebar-fixed">
-	<div class="freebar-content">
-		<div class="freebar-logo" title="Webs">Webs</div>
-		<span class="freebar-tagline">Better Websites Made Simple</span>
-		<a id="freebar-signup" href="http://www.webs.com/Signup?referer=wftr-fr-3-en&utm_source=product&utm_medium=footer&utm_term=free&utm_content=en-3&utm_campaign=users" title="Create your own free website today" rel="nofollow">Create your own free website today</a>
-	</div>
-</footer>
 
-<script type="text/javascript">require(["usersites/js/fixedFreebar"]);</script>
+
 <script data-keep-for-mobile='1'>webs = window.webs || {}; webs.stats = {"siteId":"129680610","pageId":"339038917","pageTitle":"Home","parentPageId":"","collectorUrl":"http://collector.stats.webs.com/record","premium":false};</script><script data-keep-for-mobile='2' async src='//static.websimages.com/active-static/target/stats/collector.js'></script><script type="text/javascript">(function() {var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);})();</script>
 </body>
 </html>
