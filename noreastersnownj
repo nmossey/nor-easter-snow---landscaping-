@@ -388,19 +388,7 @@ webs.renderedModulesPromises = [];
 </div>
 
 </div> <!-- End main wrapper -->
-<footer class="footer">
-	<div class="footer-content">
-		<div class="webs-content" data-role="webs-footer" id="54c146ca0cf29f06d8cc0f28"><!-- Begin Tree --><div class="webs-parent webs-parent-0"><div class="webs-parent webs-parent-1 webs-col">
-	<div class="webs-bin" id="webs-bin-54c146ca0cf29f06d8cc0f29">
-		<div class="webs-bin-wrap">
-			<div class="webs-container webs-module-freebar ">
-Create your own free website today
-			</div>
-		</div>
-	</div>
-</div></div></div>
-	</div>
-</footer>
+
 
 
 
